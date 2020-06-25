@@ -2,7 +2,7 @@
 title: "Intro-to-Kinematics"
 date: 2020-06-24
 ---
-Natural and Imaginary world is full of amazing pheonomenon which have a combination of motion of particles and bodies. For example, water shooting up periodically from <a href ="https://youtu.be/JagzNA2oG20">a geyser</a> in Iceland, in this we can estimate the maximum velocity of water particles at the mouth of the geyser by measuring the height to which the water reaches above ground. Prediction of trajectory of a Space X <a href = "https://www.youtube.com/watch?v=lEr9cPpuAx8">Rocket</a> succesfully returning to Earth requires application of the ideas which we are going to study next .
+Natural and Imaginary world is full of amazing pheonomenon which have a combination of motion of particles and bodies. For example, water shooting up periodically from <a href ="https://youtu.be/JagzNA2oG20">a geyser</a> in Iceland, in this we can estimate the maximum velocity of water particles at the mouth of the geyser by measuring the height to which the water reaches above ground. Next, prediction of trajectory of a Space X <a href = "https://www.youtube.com/watch?v=lEr9cPpuAx8">Rocket</a> succesfully returning to Earth requires application of the ideas which we are going to study next .
 
 Prerequisites for the lesson: Vector (esp. unit vectors)
 
@@ -68,7 +68,7 @@ Find the distance covered by the particle in going from P to Q along the circle.
 <img src="https://i.ibb.co/37JH3qT/Q3.jpg" alt="Q3" border="0">
 
 <h2>Displacement</h2>
-Displacement of a particle in going from initial to final position is <i>independent</i> of the path taken, which is beacuse of the way it is defined. Displacement of a particle is defined as <i>the shortest distance</i> between initial and final position, alongwith a direction from the initial to final position. In the example drawn below a particle goes from r1 to r2, and the displacement is equal to r2 - r1. 
+Displacement of a particle is defined as <i>the shortest distance</i> between initial and final position, alongwith a direction from the initial to final position. Displacement of a particle in going from initial to final position is <i>independent</i> of the path taken, which is beacuse of the way it is defined. In the example drawn below a particle goes from r1 to r2, and the displacement is equal to r2 - r1. 
 
 <img src="https://i.ibb.co/h79Zj8t/Disp.jpg" alt="Disp" border="0">
 
