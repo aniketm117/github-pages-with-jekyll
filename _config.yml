@@ -4,6 +4,7 @@ email: aniket.modi117@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learning about webpages and having fun :)
 theme: minima
+markdown: kramdown
 # social links
 twitter_username: aniketm117 # DO NOT include the @ character, or else the build will fail!
 github_username:  aniketm117 # DO NOT include the @ character, or else the build will fail!
