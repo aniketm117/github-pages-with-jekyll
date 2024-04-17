@@ -4,7 +4,9 @@ date: 2020-06-24
 ---
 Natural and Imaginary world is full of amazing pheonomenon which have a combination of motion of particles and bodies. For example, water shooting up periodically from <a href ="https://youtu.be/JagzNA2oG20">a geyser</a> in Iceland, in this we can estimate the maximum velocity of water particles at the mouth of the geyser by measuring the height to which the water reaches above ground. Next, prediction of trajectory of a Space X <a href = "https://www.youtube.com/watch?v=lEr9cPpuAx8">Rocket</a> succesfully returning to Earth requires application of the ideas which we are going to study next .
 
-Prerequisites for the lesson: Vector (esp. unit vectors)
+Prerequisites for the lesson: If you have beginner lvl understanding of vectors you can go ahead, otherwise you
+can watch <a href = "https://www.youtube.com/playlist?list=PLW8MJVksa5J_ZVghf9v7eB-xN_dUgzVcj">my lecture on vectors</a>.
+Please watch the lecture on 1.5X speed as I construct ideas rather slowly.
 
 Summary of the lesson:
 
