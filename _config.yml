@@ -4,9 +4,10 @@ title: Not a blog
 description: > # this means to ignore newlines until "baseurl:"
   Welcome!
 
-theme: minimal
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+remote-theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # social links
 twitter_username: aniketm117 # DO NOT include the @ character, or else the build will fail!
 github_username:  aniketm117 # DO NOT include the @ character, or else the build will fail!
