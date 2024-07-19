@@ -3,8 +3,6 @@ title: "Conservation of Mechanical Energy"
 date: 2024-07-19
 ---
 
-## Law of Conservation of Mechanical Energy
-
 For a conservative force, work done by it is independent of path. The law of conservation of mechanical energy is,
 
 ### “The total mechanical energy of a system remains constant if the internal forces are conservative & external forces do not work.”
