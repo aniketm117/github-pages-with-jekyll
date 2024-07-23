@@ -25,21 +25,21 @@ Q.1 Mark the CORRECT statement(s) from the following options.
 
 Q.2 Find v1 and θ, for which tension in the string at the given instant is mg, where 'm' is mass of the particle.
 
-![Particle connected to a string traversing a vertical circular motion](_posts/fig_1_1.jpg "Figure 1")
+![Particle connected to a string traversing a vertical circular motion](fig_1_1.jpg "Figure 1")
  
 Q.3 Find (a) net force on block at Q when released from P (b) At what height above the track (h) should the block be released so that the force on track by the block when it is at R is equal to mg.
 
-![Particle connected to a string traversing a vertical circular motion](_posts/fig_1_2.jpg "Figure 1")
+![Particle connected to a string traversing a vertical circular motion](fig_1_2.jpg "Figure 1")
 
 Q.4 In the figure drawn below, a horizontal light rod with a hook at one end and a mass ‘m’ attached to the other end is dropped, find minimum ‘h’ so that the block completes the full circle.
 
-![Particle connected to a string traversing a vertical circular motion](_posts/fig_1_3.jpg "Figure 1")
+![Particle connected to a string traversing a vertical circular motion](fig_1_3.jpg "Figure 1")
 
 Q.5 A particle kept on a smooth hemisphere is released from ‘X’ and normal reaction of the track vanishes at Y then,
  
 (a) sin Φ = cos θ (b) sin Φ = 0.5 cos θ (c) sin Φ = 0.66 cos θ (d) sin Φ = 0.75 cos θ
 
-![Particle connected to a string traversing a vertical circular motion](_posts/fig_1_4.jpg "Figure 1")
+![Particle connected to a string traversing a vertical circular motion](fig_1_4.jpg "Figure 1")
 
 #### Some questions on Conservation of Mechanical Energy
 
