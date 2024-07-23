@@ -7,7 +7,7 @@ date: 23-07-2024
 
 Conservation of mechanical energy can be applied in cases in which internal forces are conservative and external forces do not work. This also includes the cases where external forces are present but do not work. One of such cases is circular motion in which tension does zero work,
 
-<img src ="https://ibb.co/gywDSFF" alt="Particle connected to a string traversing a vertical circular motion" border="0">
+<img src="https://i.ibb.co/7vVGnNN/fig-1.jpg" alt="fig-1" border="0">
  
 For a bob to just complete the full circle it must satisfy the condition that its velocity at highest point (Z) should follow,
 
@@ -31,21 +31,21 @@ Q.1 Mark the CORRECT statement(s) from the following options.
 
 Q.2 Find v1 and θ, for which tension in the string at the given instant is mg, where 'm' is mass of the particle.
 
-<img src ="[/docs/assets/images/fig_1_1.jpg](https://ibb.co/TYycM3W)" alt="Particle connected to a string traversing a vertical circular motion" border="0">
+<img src="https://i.ibb.co/6rQY0CX/fig-1-1.jpg" alt="fig-1-1" border="0">
  
 Q.3 Find (a) net force on block at Q when released from P (b) At what height above the track (h) should the block be released so that the force on track by the block when it is at R is equal to mg.
 
-<img src ="[/docs/assets/images/fig_1_2.jpg](https://ibb.co/NrCT4xG)" alt="Block sliding down a smooth valley which ends up in a C-section ramp" border="0">
+<img src="https://i.ibb.co/tzKLdB1/fig-1-2.jpg" alt="fig-1-2" border="0">
 
 Q.4 In the figure drawn below, a horizontal light rod with a hook at one end and a mass ‘m’ attached to the other end is dropped, find minimum ‘h’ so that the block completes the full circle.
 
-<img src ="/docs/assets/images/fig_1_3.jpg" alt="Horizontal rod connected to a mass and a hook" border="0">
+<img src="https://i.ibb.co/RNqnZmX/fig-1-3.jpg" alt="fig-1-3" border="0">
 
 Q.5 A particle kept on a smooth hemisphere is released from ‘X’ and normal reaction of the track vanishes at Y then,
  
 (a) sin Φ = cos θ (b) sin Φ = 0.5 cos θ (c) sin Φ = 0.66 cos θ (d) sin Φ = 0.75 cos θ
 
-<img src ="/docs/assets/images/fig_1_4.jpg" alt="Hemishpere fixed to ground" border="0">
+<img src="https://i.ibb.co/b39BYqd/fig-1-4.jpg" alt="fig-1-4" border="0">
 
 #### Some questions on Conservation of Mechanical Energy
 
