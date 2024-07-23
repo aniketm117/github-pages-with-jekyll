@@ -7,7 +7,7 @@ date: 23-07-2024
 
 Conservation of mechanical energy can be applied in cases in which internal forces are conservative and external forces do not work. This also includes the cases where external forces are present but do not work. One of such cases is circular motion in which tension does zero work,
 
-<img src="https://i.ibb.co/7vVGnNN/fig-1.jpg" alt="fig-1" border="0">
+<img src="https://i.ibb.co/7vVGnNN/fig-1.jpg" alt="fig-1" border="0" class="center">
  
 For a bob to just complete the full circle it must satisfy the condition that its velocity at highest point (Z) should follow,
 
