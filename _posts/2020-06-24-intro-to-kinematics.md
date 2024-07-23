@@ -16,7 +16,6 @@ A frame of refrence is a set of three mutually perpendicular axes which intersec
 
 <img src="https://i.ibb.co/CQfRd7r/coordinate-system.jpg" alt="coordinate-system" border="0">
 
-<h1>Position, Distance, Displacement</h1>
 <h2>Position</h2>
 The coordinates of the particle (x,y,z) relative to the origin (O) is the position of the particle. The values x, y and z represent the distance to be moved from the origin along the respective axis to reach the particle. For example, (2,3,9)m represents the particle can be found by moving 2m along x axis, 3m along y axis, and 9m along z axis, in no particular order (i.e. any order). 
 Position of a particle can be represented as <i>a vector</i>, where if (x,y,z) is the position of the particle then the corresponding vector is,
