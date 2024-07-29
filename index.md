@@ -42,5 +42,5 @@ Below is a list of notes I have prepared for Class XI/XII JEE aspirants.
   </tbody>
 </table>
 
-
+<br>
 Thanks for visiting!
