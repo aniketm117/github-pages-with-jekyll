@@ -12,32 +12,32 @@ quantity</b> which can be measured.</p>
 measure of a physical quantity. For example, a pack of milk is 1 litre in volume;
 here the unit used is litre. </p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse: collapse; border: medium; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184;">
- <tbody><tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Physical Quantity</p>
-  </td>
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Unit</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 1;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Mass</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">1 kilogram</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 2; mso-yfti-lastrow: yes;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Force</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">1 newton</p>
-  </td>
- </tr>
-</tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Physical Quantity</th>
+      <th style="text-align: left">Unit</th>
+      <th style="text-align: left">Dimension</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Mass</td>
+      <td style="text-align: left">1 kilogram</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">M</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Force</td>
+      <td style="text-align: left">1 newton</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">MLT<sup>-2</sup></code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Current</td>
+      <td style="text-align: left">1 ampere</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">A</code></td>
+    </tr>
+  </tbody>
+</table>
 <br>
 <p class="MsoNormal"><o:p>&nbsp;</o:p>A <b style="mso-bidi-font-weight: normal;">physical quantity, </b>say
 X can be represented as follows,</p>
@@ -60,8 +60,10 @@ m.</p>
 
 <p class="MsoNormal">Units can be classified in two types:</p>
 
-<p class="MsoListParagraphCxSpFirst" style="mso-list: l3 level1 lfo1; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">a)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]-->Base or Fundamental Units</p>
+- Fundamental and Supplementary Units
+- Derived Units
+
+### Fundamental Units
 
 <p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>Fundamental units are assigned to physical
 quantities like mass, current, time, etc.. Fundamental units are independent of
@@ -72,83 +74,76 @@ others.</p>
 for International System of Units), their are seven fundamental quantities (and
 units) and two supplementary units.<span style="mso-spacerun: yes;">&nbsp;</span></p>
 
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>The fundamental units</p>
+#### Table of fundamental units
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Quantity</th>
+      <th style="text-align: left">Unit</th>
+      <th style="text-align: left">Dimension</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Mass</td>
+      <td style="text-align: left">1 kilogram</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">M</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Length</td>
+      <td style="text-align: left">1 metre</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">L</code></td>
+    </tr> 
+    <tr>
+      <td style="text-align: left">Time</td>
+      <td style="text-align: left">1 second</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">T</code></td>
+    </tr> 
+    <tr>
+      <td style="text-align: left">Temperature</td>
+      <td style="text-align: left">1 kelvin</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">K</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Amount of substance</td>
+      <td style="text-align: left">1 mole</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">mol</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Current</td>
+      <td style="text-align: left">1 ampere</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">A</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Luminous Intensity</td>
+      <td style="text-align: left">1 candela</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Cd</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse: collapse; border: medium; margin-left: 0.5in; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184;">
- <tbody><tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpMiddle" style="line-height: normal; margin: 0in; mso-add-space: auto;">Quantity</p>
-  </td>
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">Unit</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 1;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Length</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 metre</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 2;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Mass </p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 kilogram</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 3;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Time</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 second</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 4;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Amount of substance</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 mole</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 5;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Current</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 ampere</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 6;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Temperature</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 kelvin</p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow: 7; mso-yfti-lastrow: yes;">
-  <td style="border: 1pt solid black; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin: 0in; mso-add-space: auto;">Luminous Intensity</p>
-  </td>
-  <td style="border-bottom: 1pt solid black; border-color: currentcolor black black currentcolor; border-left: none; border-right: 1pt solid black; border-style: none solid solid none; border-top: none; border-width: medium 1pt 1pt medium; mso-border-alt: solid black .5pt; mso-border-bottom-themecolor: text1; mso-border-left-alt: solid black .5pt; mso-border-left-themecolor: text1; mso-border-right-themecolor: text1; mso-border-themecolor: text1; mso-border-top-alt: solid black .5pt; mso-border-top-themecolor: text1; padding: 0in 5.4pt; width: 239.4pt;" valign="top" width="319">
-  <p class="MsoListParagraphCxSpLast" style="line-height: normal; margin: 0in; mso-add-space: auto;">1 candela</p>
-  </td>
- </tr>
-</tbody></table>
+### Supplementary units
 
-<p class="MsoListParagraphCxSpFirst"><o:p>&nbsp;</o:p>The Supplementary units</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Physical Quantity</th>
+      <th style="text-align: left">Unit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Plane Angle</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 radian</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Solid Angle</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 st-radian</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p><span style="font-family: symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol; text-indent: -0.25in;"><span style="mso-list: Ignore;">·<span style="font-family: &quot;times new roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="text-indent: -0.25in;">plane angle – 1 radian</span></p><p class="MsoListParagraphCxSpMiddle"><span style="mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol; text-indent: -0.25in;"><span style="mso-list: Ignore;">&nbsp;<font face="symbol">·</font><span style="font-family: &quot;times new roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="text-indent: -0.25in;">solid angle – 1 steradian</span></p>
-
-<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo1; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">b)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]-->Derived units</p>
+### Derived units
 
 <p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>Derived units are assigned to derived
 quantities like Force, Area, Charge etc.</p>
