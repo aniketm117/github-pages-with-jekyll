@@ -2,6 +2,9 @@
 title: "Intro-to-Kinematics"
 date: 2020-06-24
 ---
+
+<a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
+
 Natural and Imaginary world is full of amazing phenomena. For example, water shooting up periodically from <a href ="https://youtu.be/JagzNA2oG20">a geyser</a> in Iceland. Using **concepts of kinematics** we can estimate the maximum velocity of water particles at the mouth of the geyser by measuring the height to which the water reaches above ground.
 
 Prediction of trajectory of a Space X <a href = "https://www.youtube.com/watch?v=lEr9cPpuAx8">Rocket</a> succesfully returning to Earth requires application of the ideas which we are going to study next.
