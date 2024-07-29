@@ -15,6 +15,11 @@ Below is a list of notes I have prepared for Class XI/XII JEE aspirants.
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Units & Measurement</code></td>
+      <td><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2024/07/29/units-measurement.html">link</a></td>
+      <td style="text-align: left">2024-07</td>
+    </tr>
+    <tr>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Intro to Kinematics</code></td>
       <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">link</a></td>
       <td style="text-align: left">2024-07</td>
