@@ -2,6 +2,9 @@
 title: Units and Measurement
 date: 2024-07-29
 ---
+
+<a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
+
 <p class="MsoNormal">A&nbsp;<b>physical</b><b style="mso-bidi-font-weight: normal;">&nbsp;<span style="mso-bidi-font-weight: bold;">quantity</span></b>&nbsp;is a property of a
 material or system that can be quantified by measurement. For example, a book
 of English literature would have a mass, and three dimensions (length, breadth
@@ -169,56 +172,51 @@ pm = 10<sup>-12</sup>m</p>
 <p class="MsoNormal">1 µm = 10<sup>-6</sup>m<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1
 fm = 10<sup>-15</sup>m</p>
 
-<p class="MsoNormal">System of Units</p>
+#### System of Units
 
 - MKS System – metre, kilogram, second
 - CGS System – centimeter, gram, second
 - FPS System – foot, pound, second</span></p>
 - SI
 
-<p class="MsoNormal"><i>E.g.2 </i></p>
-
-<p class="MsoNormal">Convert 1m<sup>2 </sup>into cm<sup>2</sup>.</p>
+<i>E.g.2 </i>
+  
+Convert 1m<sup>2 </sup>into cm<sup>2</sup>.
 
 1m = 100 cm
 
 1m<sup>2</sup> = 10<sup>4</sup> cm<sup>2</sup>
 
-<p class="MsoNormal"><i>E.g.3</i></p>
+<i>E.g.3</i>
 
-<p class="MsoNormal">Convert 1g<sup>2</sup> into kg<sup>2</sup>.</p>
+Convert 1g<sup>2</sup> into kg<sup>2</sup>.
 
 1g = 10<sup>-3</sup> kg 
 
 1g<sup>2</sup> = 10<sup>-6</sup> kg<sup>2</sup>
 
-<p class="MsoNormal"><i>E.g.4</i></p>
+<i>E.g.4</i>
 
-<p class="MsoNormal">Convert 1 newton (MKS unit of force) to 1 dyne (CGS unit of force).</p>
+Convert 1 newton (MKS unit of force) to 1 dyne (CGS unit of force).
 
 1newton = 1 kg-ms<sup>-2</sup> = 1 kg * 1m/1s<sup>2</sup> = 10<sup>3</sup>g * 10<sup>2</sup>cm/1s<sup>2</sup> = 10<sup>5</sup>g-cms<sup>-2</sup> = 10<sup>5</sup>dyne
 
-<p class="MsoNormal">Q1. Convert 10<sup>-7</sup> erg (CGS unit of energy) to
-joule.</p>
+Q1. Convert 10<sup>-7</sup> erg (CGS unit of energy) to
+joule.
 
-<p class="MsoNormal">Q2. Light year is a unit of </p>
+Q2. Light year is a unit of 
 
-<p class="MsoNormal">a) time <span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>b)
-distance <span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>c) mass <span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>d) energy</p>
+a) time b) distance c) mass d) energy
 
-<p class="MsoNormal">Q3. Which of the following is not represented in correct unit ?</p>
+Q3. Which of the following is not represented in correct unit ?</p>
 
-<p class="MsoListParagraphCxSpFirst" style="mso-list: l0 level1 lfo4; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">a)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>&nbsp;&nbsp; &nbsp;</span></span></span></span><!--[endif]-->stress = 1N/m<sup>2</sup><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+a) stress = 1N/m<sup>2</sup>
 
-<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo4; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">b)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp; &nbsp;</span>&nbsp;
-</span></span></span><!--[endif]-->surface tension = 1N/m</p>
+b) surface tension = 1N/m
 
-<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo4; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">c)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp; &nbsp;</span>
-</span></span></span><!--[endif]-->energy = 1kgm/s</p>
+c) energy = 1kgm/s
 
-<p class="MsoListParagraphCxSpLast" style="mso-list: l0 level1 lfo4; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">d)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp; &nbsp;</span>
-</span></span></span><!--[endif]-->pressure = 1kgm<sup>-1</sup>s<sup>-2</sup></p>
+d) pressure = 1kgm<sup>-1</sup>s<sup>-2</sup>
 
 Q4. Choose a suitable unit for gravitational constant `G’.
 
