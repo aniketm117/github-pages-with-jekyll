@@ -26,17 +26,17 @@ Below is a list of notes I have prepared for Class XI/XII JEE aspirants.
     </tr>
     <tr>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Conservation of Mechnaincal Energy</code></td>
-      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">link</a></td>
+      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2024/07/19/consv-of-mech.html">link</a></td>
       <td style="text-align: left">2024-07</td>
     </tr>
     <tr>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Motion in Vertical Circle</code></td>
-      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">link</a></td>
+      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2024/07/23/consv-of-mech-2.html">link</a></td>
       <td style="text-align: left">2024-07</td>
     </tr>
     <tr>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Power</code></td>
-      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">link</a></td>
+      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2024/07/27/power.html">link</a></td>
       <td style="text-align: left">2024-07</td>
     </tr>
   </tbody>
