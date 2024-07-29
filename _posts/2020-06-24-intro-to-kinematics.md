@@ -64,7 +64,7 @@ We can see that even though the motion of the particle is not easy to imagine we
 <h2>Distance</h2>
 The total path length of the path traversed by a particle in going from initial to final position is called the Distance covered by the particle.
 
-Find the distance covered by the particle in going from P to Q along the circle. And, find the distance covered by the particle by the particle in going from P to Q along the diameter. Answer at the bottom of the lesson.
+Find the distance covered by the particle in going from P to Q along the circle. And, find the distance covered by the particle by the particle in going from P to Q along the diameter.
 
 <img src="https://i.ibb.co/37JH3qT/Q3.jpg" alt="Q3" border="0">
 
@@ -85,10 +85,14 @@ The displacement of a particle is made up of two components, the magnitude and t
 
 <img src="https://i.ibb.co/2KZTj05/Direction.jpg" alt="Direction" border="0">
 
-A twist in an old IIT-JEE Question
+#### A twist in subjective IIT-JEE Question
 
 Find the ratio of the magnitude of the displacement and the distance covered by the particle as it goes along the path ABC from A to C.
 
 <img src="https://i.ibb.co/x60vLGT/Q4.jpg" alt="Q4" border="0">
+
+<a href = "https://aniketm117.github.io/github-pages-with-jekyll/2023/02/09/long-time-no-post.html">Is this a Question of Kinematics ?</a>
+
+
  
  
