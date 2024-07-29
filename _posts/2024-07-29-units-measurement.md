@@ -5,15 +5,9 @@ date: 2024-07-29
 
 <a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
 
-<p class="MsoNormal">A&nbsp;<b>physical</b><b style="mso-bidi-font-weight: normal;">&nbsp;<span style="mso-bidi-font-weight: bold;">quantity</span></b>&nbsp;is a property of a
-material or system that can be quantified by measurement. For example, a book
-of English literature would have a mass, and three dimensions (length, breadth
-and thickness). The mass is a <b style="mso-bidi-font-weight: normal;">physical
-quantity</b> which can be measured.</p>
+A **physical quantity** is a property of a material or system that can be quantified by measurement. For example, a book of English literature would have a mass, and three dimensions (length, breadth and thickness). The mass is a **physical quantity** which can be measured.
 
-<p class="MsoNormal">A <b style="mso-bidi-font-weight: normal;">unit</b> is a
-measure of a physical quantity. For example, a pack of milk is 1 litre in volume;
-here the unit used is litre. </p>
+A **unit** is a measure of a physical quantity. For example, a pack of milk is 1 litre in volume; here the unit used is litre.
 
 <table>
   <thead>
@@ -42,20 +36,19 @@ here the unit used is litre. </p>
   </tbody>
 </table>
 <br>
-<p class="MsoNormal"><o:p>&nbsp;</o:p>A <b style="mso-bidi-font-weight: normal;">physical quantity, </b>say
-X can be represented as follows,</p>
+A physical quantity, say X can be represented as follows,
 
 X = n * u
 
 <p class="MsoNormal">u = unit; n = variable</p>
 
-<p class="MsoNormal">For a particular physical quantity (X), if u is large then n
+<p class="MsoNormal">For a particular physical quantity (X), if unit (u) is large then variable (n)
 is small and if u is small then n is large.</p>
 
-<p class="MsoNormal"><i style="mso-bidi-font-style: normal;">E.g. 1</i> </p>
+<i>E.g. 1</i>
 
-<p class="MsoNormal">A Cricket Pitch is 22.00 yard long, which in meters is <u>20.12</u>
-m.</p>
+A Cricket Pitch is 22.00 yard long, which in meters is <u>20.12</u>
+m.
 
 1 meter = 1.093 yard
 
@@ -68,9 +61,9 @@ m.</p>
 
 ### Fundamental Units
 
-A **physical quantity** is a property of a material or system that can be quantified by measurement. For example, a book of English literature would have a mass, and three dimensions (length, breadth and thickness). The mass is a **physical quantity** which can be measured.
+Fundamental units are assigned to physical quantities like mass, current, time, etc.. Fundamental units are independent of each other i.e. changing the unit of one physical quantity does not affect others.
 
-A **unit** is a measure of a physical quantity. For example, a pack of milk is 1 litre in volume; here the unit used is litre. 
+In SI (Système Internationale d’ Unites - French for International System of Units), their are seven fundamental quantities (and units) and two supplementary units.  
 
 #### Table of fundamental units
 <table>
@@ -149,11 +142,11 @@ quantities like Force, Area, Charge etc.</p>
 <p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>Derived quantities / units are made of two
 or more fundamental quantities for e.g.<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p>
 
-1m<sup>2</sup> = 1m * 1m
+1 m<sup>2</sup> = 1m * 1m
 
-1newton = 1kg-m/s<sup>2</sup> = (1kg*1m)/1s<sup>2</sup>
+1 newton = 1 kg-m/s<sup>2</sup> = (1kg*1m)/1s<sup>2</sup>
 
-1coulomb = 1ampere-second
+1 coulomb = 1 ampere-second
 
 <p class="MsoNormal">Scientific Prefixes</p>
 
@@ -176,7 +169,7 @@ fm = 10<sup>-15</sup>m</p>
 
 - MKS System – metre, kilogram, second
 - CGS System – centimeter, gram, second
-- FPS System – foot, pound, second</span></p>
+- FPS System – foot, pound, second
 - SI
 
 <i>E.g.2 </i>
@@ -199,7 +192,7 @@ Convert 1g<sup>2</sup> into kg<sup>2</sup>.
 
 Convert 1 newton (MKS unit of force) to 1 dyne (CGS unit of force).
 
-1newton = 1 kg-ms<sup>-2</sup> = 1 kg * 1m/1s<sup>2</sup> = 10<sup>3</sup>g * 10<sup>2</sup>cm/1s<sup>2</sup> = 10<sup>5</sup>g-cms<sup>-2</sup> = 10<sup>5</sup>dyne
+1 newton = 1 kg-ms<sup>-2</sup> = 1 kg * 1m/1s<sup>2</sup> = 10<sup>3</sup>g * 10<sup>2</sup>cm/1s<sup>2</sup> = 10<sup>5</sup>g-cms<sup>-2</sup> = 10<sup>5</sup>dyne
 
 Q1. Convert 10<sup>-7</sup> erg (CGS unit of energy) to
 joule.
@@ -208,7 +201,7 @@ Q2. Light year is a unit of
 
 a) time b) distance c) mass d) energy
 
-Q3. Which of the following is not represented in correct unit ?</p>
+Q3. Which of the following is not represented in correct unit ?
 
 a) stress = 1N/m<sup>2</sup>
 
