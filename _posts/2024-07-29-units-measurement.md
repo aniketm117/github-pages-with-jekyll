@@ -65,14 +65,9 @@ m.</p>
 
 ### Fundamental Units
 
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>Fundamental units are assigned to physical
-quantities like mass, current, time, etc.. Fundamental units are independent of
-each other i.e. changing the unit of one physical quantity does not affect
-others.</p>
+A **physical quantity** is a property of a material or system that can be quantified by measurement. For example, a book of English literature would have a mass, and three dimensions (length, breadth and thickness). The mass is a **physical quantity** which can be measured.
 
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>In SI (Système Internationale d’ Unites - French
-for International System of Units), their are seven fundamental quantities (and
-units) and two supplementary units.<span style="mso-spacerun: yes;">&nbsp;</span></p>
+A **unit** is a measure of a physical quantity. For example, a pack of milk is 1 litre in volume; here the unit used is litre. 
 
 #### Table of fundamental units
 <table>
@@ -176,15 +171,10 @@ fm = 10<sup>-15</sup>m</p>
 
 <p class="MsoNormal">System of Units</p>
 
-<p class="MsoListParagraphCxSpFirst" style="margin-left: 0.75in; mso-add-space: auto; mso-list: l2 level1 lfo3; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">a)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]-->MKS System – metre, kilogram, second</p><p class="MsoListParagraphCxSpFirst" style="margin-left: 0.75in; mso-add-space: auto; mso-list: l2 level1 lfo3; text-indent: -0.25in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; text-indent: -0.25in;"><span style="mso-list: Ignore;">b)<span style="font-family: &quot;times new roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="text-indent: -0.25in;">CGS System – centimeter, gram, second</span></p>
-
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;<span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; </span></o:p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; text-indent: -0.25in;"><span style="mso-list: Ignore;">c)<span style="font-family: &quot;times new roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="text-indent: -0.25in;">FPS System – foot, pound, second</span></p>
-
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;<span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; </span></o:p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; text-indent: -0.25in;"><span style="mso-list: Ignore;">d)<span style="font-family: &quot;times new roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="text-indent: -0.25in;">SI</span></p>
+- MKS System – metre, kilogram, second
+- CGS System – centimeter, gram, second
+- FPS System – foot, pound, second</span></p>
+- SI
 
 <p class="MsoNormal"><i>E.g.2 </i></p>
 
@@ -230,25 +220,6 @@ distance <span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <p class="MsoListParagraphCxSpLast" style="mso-list: l0 level1 lfo4; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">d)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp; &nbsp;</span>
 </span></span></span><!--[endif]-->pressure = 1kgm<sup>-1</sup>s<sup>-2</sup></p>
 
-<p class="MsoNormal">Q4. Choose a suitable unit for gravitational constant `G’.</p>
+Q4. Choose a suitable unit for gravitational constant `G’.
 
-<p class="MsoListParagraph" style="mso-list: l1 level1 lfo5; text-indent: -0.25in;"><!--[if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"><span style="mso-list: Ignore;">a)<span style="font: 7pt &quot;times new roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>&nbsp;&nbsp; &nbsp;</span></span></span></span><!--[endif]-->1Nm<sup>2</sup>kg<sup>-2</sup><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>b) 1Nmkg<sup>-2</sup><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>c) 1Nm<sup>2</sup>kg<sup>-1</sup><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>d) 1Nmkg<sup>-1</sup></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p><br />
+a) 1 Nm<sup>2</sup>kg<sup>-2</sup>                             b) 1 Nmkg<sup>-2</sup>                          c) 1 Nm<sup>2</sup>kg<sup>-1</sup>                         d) 1 Nmkg<sup>-1</sup>
