@@ -3,6 +3,8 @@ title: Motion in a vertical circle and problems
 date: 23-07-2024
 ---
 
+<a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
+
 ### Motion in a vertical circle
 
 Conservation of mechanical energy can be applied in cases in which internal forces are conservative and external forces do not work. This also includes the cases where external forces are present but do not work. One of such cases is circular motion in which tension does zero work,
