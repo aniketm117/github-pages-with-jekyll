@@ -38,7 +38,7 @@ here the unit used is litre. </p>
   </td>
  </tr>
 </tbody></table>
-
+<br>
 <p class="MsoNormal"><o:p>&nbsp;</o:p>A <b style="mso-bidi-font-weight: normal;">physical quantity, </b>say
 X can be represented as follows,</p>
 
@@ -73,8 +73,6 @@ for International System of Units), their are seven fundamental quantities (and
 units) and two supplementary units.<span style="mso-spacerun: yes;">&nbsp;</span></p>
 
 <p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p>The fundamental units</p>
-
-<p class="MsoListParagraphCxSpMiddle"><o:p>&nbsp;</o:p></p>
 
 <table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse: collapse; border: medium; margin-left: 0.5in; mso-border-alt: solid black .5pt; mso-border-themecolor: text1; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184;">
  <tbody><tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
