@@ -8,16 +8,11 @@ A metal ball and an insulating ball are dropped from some height above earth. Bo
 
 Hint: electrons
 
-//test
+// test
 
-## Newton's Second Law
+$$
+\displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
+$$
 
-Newton's Second Law of Motion states that:
 
-\[ F = ma \]
-
-where:
-- \( F \) is the net force acting on an object
-- \( m \) is the mass of the object
-- \( a \) is the acceleration of the object
 
