@@ -8,11 +8,4 @@ A metal ball and an insulating ball are dropped from some height above earth. Bo
 
 Hint: electrons
 
-// test
-
-$$
-\displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
-$$
-
-
-
+<img src = "https://latex.codecogs.com/svg.image?\displaystyle\sum_{k=3}^5&space;k^2=3^2&plus;4^2&plus;5^2=50&space;"></img> 
