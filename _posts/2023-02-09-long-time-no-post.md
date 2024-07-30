@@ -10,4 +10,14 @@ Hint: electrons
 
 //test
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">1 newton = 1kg-ms^{-2}=1kg*1m/1s^2=10^3g*10^2cm/1s^2=10^5g-cms^{-2}=10^5dyne</script>
+## Newton's Second Law
+
+Newton's Second Law of Motion states that:
+
+\[ F = ma \]
+
+where:
+- \( F \) is the net force acting on an object
+- \( m \) is the mass of the object
+- \( a \) is the acceleration of the object
+
