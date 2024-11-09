@@ -1,9 +1,9 @@
 Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well 
-as Boards) in 2014 with FIITJEE, & I have worked with similar organizations like Vidya Mandir Classes, Aakash, Avanti Fellows-ALS since then.
+as Boards) in 2014 with FIITJEE, & I have worked with similar organizations like Vidya Mandir Classes, & Aakash since then.
 
 Watching IPL right now ? I have also created an [app](https://aniketm117-regression-model-web-app-main-2lx3jl.streamlit.app/) to analyse IPL Player Auction data to make prediction of a player`s sold price.
 
-Below is a list of notes I have prepared for Class XI/XII JEE aspirants.
+Below is a list of notes I have prepared for Class XI/XII JEE & NEET aspirants.
 
 <table>
   <thead>
