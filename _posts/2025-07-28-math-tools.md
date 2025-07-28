@@ -28,8 +28,8 @@ Trigonometry deals with angles, triangles, and their ratios. It's a fundamental 
  <tbody>
    <tr>
      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">sin²θ + cos²θ = 1</code></td>
-     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 + cot²θ = cosec²θ</a></td>
-     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 + tan²θ = sec²θ</td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 + cot²θ = cosec²θ</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1 + tan²θ = sec²θ</code></td>
    </tr>
    <tr>
      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">sin (90 + θ) = cos θ</code></td>
