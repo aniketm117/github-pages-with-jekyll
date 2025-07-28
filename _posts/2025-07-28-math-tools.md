@@ -40,6 +40,7 @@ Trigonometry deals with angles, triangles, and their ratios. It's a fundamental 
      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos (90 + θ) = - sin θ</code></td>
      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos (180 - θ) = - cos θ</code></td>
      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos (90 - θ) = sin θ</code></td>
+   </tr>
  </tbody>
 </table>
 
