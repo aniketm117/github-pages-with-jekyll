@@ -10,6 +10,11 @@ Welcome to physics notes you may use for Class XI/XII JEE & NEET aspirants.
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Mathematical Tools</code></td>
+      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2025/07/28/math-tools.html">link</a></td>
+      <td style="text-align: left">2025-07</td>
+    </tr>
+    <tr>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Units & Measurement</code></td>
       <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2024/07/29/units-measurement.html">link</a></td>
       <td style="text-align: left">2024-07</td>
