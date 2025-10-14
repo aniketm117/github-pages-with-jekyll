@@ -8,4 +8,4 @@ A metal ball and an insulating ball are dropped from some height above earth. Bo
 
 Hint: electrons
 
-<img src = "https://latex.codecogs.com/svg.image?\displaystyle\sum_{k=3}^5&space;k^2=3^2&plus;4^2&plus;5^2=50&space;"> 
+<a href="https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">Back</a> 
