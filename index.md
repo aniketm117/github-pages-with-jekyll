@@ -50,7 +50,7 @@ Welcome to physics notes you may use for Class XI/XII JEE & NEET aspirants.
 <br>
 
 Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well 
-as Boards) with FIITJEE as my first employer. Since 2014 I have worked with similar organizations like Vidya Mandir Classes, & Aakash since then.
+as Boards) with FIITJEE as my first employer. Since 2014 I have worked with similar organizations like Vidya Mandir Classes, & Aakash.
 
 Watching IPL right now ? I have also created an [app](https://aniketm117-regression-model-web-app-main-2lx3jl.streamlit.app/) to analyse IPL Player Auction data to make prediction of a player`s sold price.
 
