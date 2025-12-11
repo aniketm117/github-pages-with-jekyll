@@ -7,7 +7,7 @@ date: 2025-11-16
 
 #### The Mountain and The Hound
 
-This excerpt is from the first book of the fiction Novels <a href = "https://https://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire">"A Song of Ice and Fire"</a> told from POV of Sansa. 
+This excerpt is from the first book of the fiction Novels <a href = "https://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire">"A Song of Ice and Fire"</a> told from POV of Sansa. 
 
 The Hound is taking Sansa to the Red Keep (on Joefferys Instruction) after the first day of Kings Tourney organized in the celeberation of the appointment of King`s Hand had ended.
 
