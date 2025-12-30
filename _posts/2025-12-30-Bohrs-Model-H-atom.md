@@ -1,5 +1,5 @@
 ---
-title: "Bohr`s Model of H & H-like species"
+title: "Bohr's Model of H & H-like species"
 description: "A physics lecture note on Bohr’s atomic model with key derivations and results."
 date: 2025-12-30
 ---
