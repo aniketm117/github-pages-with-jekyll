@@ -3,6 +3,18 @@ title: "Bohr's Model of H & H-like species"
 description: "A physics lecture note on Bohr’s atomic model with key derivations and results."
 date: 2025-12-30
 ---
+<!-- MathJax configuration for GitHub Pages -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 <a href="https://aniketm117.github.io/github-pages-with-jekyll/">Back</a> 
 
