@@ -4,7 +4,7 @@ description: "A physics lecture note on Bohr’s atomic model with key derivatio
 date: 2025-12-30
 ---
 
-<a href="https://aniketm117.github.io/github-pages-with-jekyll/2020/06/24/intro-to-kinematics.html">Back</a> 
+<a href="https://aniketm117.github.io/github-pages-with-jekyll/">Back</a> 
 
 # Bohr’s Model of the Hydrogen Atom
 
