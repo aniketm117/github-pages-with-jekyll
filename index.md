@@ -45,7 +45,7 @@ Welcome to physics notes you may use for Class XI/XII JEE & NEET aspirants.
       <td style="text-align: left">2024-07</td>
     </tr>
     <tr>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Bohr`s-Model-of-H-atom</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Bohr`s Model of H atom</code></td>
       <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2025/12/30/Bohrs-Model-H-atom.html">link</a></td>
       <td style="text-align: left">2025-12</td>
     </tr>
