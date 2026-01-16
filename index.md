@@ -50,18 +50,17 @@ Welcome to physics notes you may use for Class XI/XII JEE & NEET aspirants.
       <td style="text-align: left">2025-12</td>
     </tr>
     <tr>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">The Mountain and The Hound</code></td>
-      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2025/11/16/mountain-hound.html">link</a></td>
-      <td style="text-align: left">2025-11</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">Magnetic Forces on Wire</code></td>
+      <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/2026/01/08/Magnetic-Forces-on-Wire.html">link</a></td>
+      <td style="text-align: left">2026-01</td>
     </tr>
     
   </tbody>
 </table>
 
 <br>
-
-Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well 
-as Boards) with FIITJEE as my first employer. Since 2014 I have worked with similar organizations like Vidya Mandir Classes, & Aakash.
+Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well as Boards).
+Since 2014 I have worked with similar organizations like Fiitjee, Vidya Mandir Classes, & Aakash.
 
 Watching IPL right now ? I have also created an [app](https://aniketm117-regression-model-web-app-main-2lx3jl.streamlit.app/) to analyse IPL Player Auction data to make prediction of a player`s sold price.
 
