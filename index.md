@@ -57,6 +57,7 @@ Welcome to physics notes you may use for Class XI/XII JEE & NEET aspirants.
     
   </tbody>
 </table>
-
+<br>
+Watching IPL right now ? I have also created an [app](https://aniketm117-regression-model-web-app-main-2lx3jl.streamlit.app/) to analyse IPL Player Auction data to make prediction of a player`s sold price.
 <br>
 Thanks for visiting!
