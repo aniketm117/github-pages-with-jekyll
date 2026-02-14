@@ -5,9 +5,9 @@ date: 2025-07-28
 
 <td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a></td>
 
-# Math Tools for Class 11
+# Mathematical Tools for Class 11
 
-A curated resource for mastering key mathematical concepts for the JEE exam.
+- Maths is the language of physics. Following text is a curated resource for mastering key mathematical concepts for the JEE exam.
 
 ---
 
@@ -15,7 +15,21 @@ A curated resource for mastering key mathematical concepts for the JEE exam.
 
 Trigonometry deals with angles, triangles, and their ratios. It's a fundamental part of JEE.
 
+### Trigonometric Ratios
+
+$$\sin \theta = \frac{b}{h}$$
+$$\cos \theta = \frac{b}{h}$$
+$$\tan \theta = \frac{b}{h}$$
+
 ### 📌 Common Formula in Trigonometry:
+
+$$\sin(90 + \theta) = -\cos \theta$$
+$$\cos(90 - \theta) = \sin \theta$$
+
+$$\sin 30^\circ = \frac{1}{2}$$
+$$\sin 45^\circ = \frac{1}{\sqrt{2}}$$
+$$\sin 60^\circ = \frac{\sqrt{3}}{2}$$
+$$\sin 90^\circ = 1$$
 
 <table>
  <thead>
@@ -55,6 +69,33 @@ Trigonometry deals with angles, triangles, and their ratios. It's a fundamental 
 - Adjacent = √(5² - 3²) = √16 = 4  
 - `cosθ = 4/5`, `tanθ = 3/4`
 
+<table>
+ <thead>
+   <tr>
+     <th style="text-align: left">Col 1</th>
+     <th style="text-align: left">Col 2</th>
+     <th style="text-align: left">Col 3</th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">sin(360+θ) = sinθ</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos(360+θ) = cosθ</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos(360-θ) = cosθ</code></td>
+   </tr>
+   <tr>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">sin(A+B) = sinA·cosB + sinB·cosA</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">cos(A+B) = cosA·cosB - sinA·sinB</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">sin(2A) = 2sinA·cosA</code></td>
+   </tr>
+   <tr>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1+cos(2A) = 2cos²(A)</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1-cos(2A) = 2sin²(A)</code></td>
+     <td style="text-align: left"><code class="language-plaintext highlighter-rouge">tan (90 + θ) = - cot θ</code></td>
+   </tr>
+ </tbody>
+</table>
+
 ---
 
 ## 2. Straight Lines
@@ -82,7 +123,15 @@ Use point-slope form:
 
 ## 3. Differentiation
 
-Differentiation is the rate of change of a function. It’s essential for calculus-based problems in JEE.
+Differentiation is the rate of change of a function. It’s essential for calculus-based problems in JEE. Say (displacement) and $x_1, x_2$ time
+
+$V_{av} = \langle v \rangle = \frac{y_2 - y_1}{t_2 - t_1} = 0$.
+
+as the time interval $(t_2 - t_1)$ becomes very small the average velocity becomes instantaneous velocity.
+
+so $V_{av}$ changes to $v$; $\Delta v / \Delta t$ becomes closer to $x_1, x_2$ line.
+
+which was intersecting the curve at two points would eventually touch at just at a single point
 
 ### 📌 Basic Derivatives:
 
@@ -121,6 +170,22 @@ Integration is the reverse of differentiation. It’s used to calculate area, di
 `∫(3x² + 2x - 1) dx = x³ + x² - x + C`
 
 ---
+
+## 5. Vectors
+
+Equal Vectors
+$\vec{A} = \vec{B}$
+If two vectors are equal then their magnitudes and directions are identical,
+
+Multiply vector by a scalar
+
+$\vec{B} = 2\vec{A}$
+
+$\vec{A}$ + $\vec{A}$ = $\vec{B}$
+
+### Triangle rule of vector addition
+
+When two vectors are arranged such that the need of one vector coincides with the tail of the other, then the vector obtained in completing the triangle, in the direction from tail to head is the sum of the two vectors.
 
 ## 📎 Note:
 
