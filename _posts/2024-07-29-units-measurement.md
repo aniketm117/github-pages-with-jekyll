@@ -2,6 +2,18 @@
 title: Units and Measurement
 date: 2024-07-29
 ---
+<!-- MathJax configuration for GitHub Pages -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 <a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a>
 
