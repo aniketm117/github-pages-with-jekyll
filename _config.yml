@@ -4,7 +4,7 @@ title: Not a blog
 description: > # this means to ignore newlines until "baseurl:"
   Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well as Boards). Since 2014 I have worked with similar organizations like Fiitjee, Vidya Mandir Classes, & Aakash.
 
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/cayman@v0.2.0"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
