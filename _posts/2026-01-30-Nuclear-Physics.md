@@ -24,7 +24,7 @@ MathJax = {
 
 ## 1. Introduction
 
-Atomes consist of electrons in an orbit about the nucleus, discovered through the Gold Foil Experiment. Later Neutron was discovered as the one having mass slightly higher then that of a proton.
----
+Atoms consist of electrons in an orbit about the nucleus, discovered through the Gold Foil Experiment. Later Neutron was discovered as the one having mass slightly higher then that of a proton.
+
 
 ## 2. Experimental Motivation
