@@ -2,9 +2,7 @@ author: Aniket Modi
 email: aniket.modi117@gmail.com
 title: Not a blog
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I am Aniket. I started teaching Physics to class 11 and 12 students for engineering entrance exams (as well as Boards). Since 2014 I have worked with similar organizations like Fiitjee, Vidya Mandir Classes, & Aakash.
-
-baseurl: ""
+  Hello, I am Aniket. I have worked in coaching field teaching Physics to class 11 and 12 students for engineering entrance exams with organizations like Fiitjee, Vidya Mandir Classes, & Aakash.
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
