@@ -2,8 +2,20 @@
 title: "Mathematical Tools"
 date: 2025-07-28
 ---
+<!-- MathJax configuration for GitHub Pages -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
-<td style="text-align: left"><a href = "https://aniketm117.github.io/github-pages-with-jekyll/">Back</a></td>
+<td style="text-align: left"><a href = "https://aniketm117.github.io">Back</a></td>
 
 # Mathematical Tools for Class 11
 
